@@ -2,10 +2,7 @@
 #include <stdio.h>
 
 /**
- * times_table - multiplication table
- * @i: first digit
- * @j: second digit
- * @result: multiplying parameter
+ * times_table - print 9  multiplication table
  * Return: void
  */
 
